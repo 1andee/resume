@@ -1,0 +1,13 @@
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    padding: 6vh 5vw;
+    font-family: 'Roboto Mono', serif;
+}
+
+section {
+    margin-top: 4vh;
+}
